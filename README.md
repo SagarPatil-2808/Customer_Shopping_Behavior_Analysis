@@ -55,7 +55,7 @@ Age group contribution to revenue
 Product category performance
 
 📊 Power BI Dashboard
-<p align="center"> <img src="images/dashboard_image.png" alt="Dashboard" width="800"> </p>
+<p align="center"> <img src="dashboard_image.png" alt="Dashboard" width="800"> </p>
 
 Dashboard Features:
 
