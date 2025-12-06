@@ -55,7 +55,7 @@ Age group contribution to revenue
 Product category performance
 
 📊 Power BI Dashboard
-<p align="center"> <img src="images/dashboard.png" alt="Dashboard" width="800"> </p>
+<p align="center"> <img src="images/dashboard_image.png" alt="Dashboard" width="800"> </p>
 
 Dashboard Features:
 
@@ -82,5 +82,5 @@ Interactive Slicers (Shipping Type, Category, Gender, Subscription, Age Group)
 👨‍💻 Author
 
 Sagar Patil
-🔗 LinkedIn: your link
-📧 Email: your email
+🔗 LinkedIn: [your link](https://www.linkedin.com/in/sagar-patil-3673832a3/)
+📧 Email: sagyy2001@gmail.com
